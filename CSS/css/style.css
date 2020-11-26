@@ -1,0 +1,70 @@
+
+                       /*--page d'accueil*/
+
+.logo_jarditou {
+    width: 10em;
+    display: flex;
+    max-width: 80%;
+    height: auto;
+}
+
+.tout {
+    font-size: 15pt;
+    text-align: center;
+    margin-bottom: 13pt;
+    margin-top: 5pt;
+    margin-left: 40%;
+}
+
+.alignelogo{
+    display: flex;
+    align-items: center;
+}
+
+.lien {
+    color: white;
+    background-color: black;
+    border: 12px solid black;
+    font-size: 13px;
+    justify-content: left;
+    margin-bottom: 4px;
+}
+
+a {
+   color: white;
+}
+
+li {
+    list-style: none;
+    display: inline;
+}
+
+body {
+    margin: 1% 18% 1% 18%;
+}
+.promo {
+    max-width: 100%;
+    height: auto;
+}
+
+/*--partie accueil--*/
+
+.span2 {
+    background: lightgray;
+    column-width: 40em;
+    max-height: 100%;
+    margin-bottom: 4px;
+}
+
+.alignecolonne {
+    display: flex;
+    justify-content: center;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+                                      
+
+
